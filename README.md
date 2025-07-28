@@ -1,32 +1,28 @@
-# Boleto-Selenium
+# Compra de Ingresso para jogo
 
-# Automação de Login no SIA Estácio
+# Exercício de Programação
+Este repositório contém um exercício de programação que simula a compra de ingressos para um jogo de futebol. O objetivo é praticar habilidades de programação.
 
-Este projeto contém um script em Node.js que utiliza Selenium WebDriver para automatizar o login no portal SIA da Estácio.
+## Descrição
 
-## Pré-requisitos
+Este exercício tem como objetivo praticar conceitos de programação, como estrutura de dados, lógica e manipulação de arquivos. Siga as instruções do enunciado para implementar a solução.
 
-- Node.js instalado
-- Google Chrome instalado
-- ChromeDriver compatível com sua versão do Chrome
-- Instalar dependências com:
-  ```
-  npm install selenium-webdriver
-  ```
+## Como Executar
 
-## Como usar
+1. Certifique-se de ter o ambiente configurado (por exemplo, Node.js, Python, etc., conforme a linguagem utilizada).
+2. Clone ou baixe este repositório.
+3. Navegue até a pasta `c:\Estudos`.
+4. Execute o comando apropriado para rodar o exercício, por exemplo:
+   - Para Node.js: `node nome-do-arquivo.js`
+   - Para Python: `python nome-do-arquivo.py`
+   - Para Java: `javac NomeDoArquivo.java && java NomeDoArquivo`
 
-1. Edite o arquivo `boletoFacul.js` e insira seu usuário e senha nos campos correspondentes.
-2. Execute o script:
-   ```
-   node boletoFacul.js
-   ```
-3. O navegador será aberto automaticamente e o login será realizado até a etapa do captcha.
+## Requisitos
 
-> **Atenção:** O script não resolve automaticamente o captcha. Será necessário resolvê-lo manualmente para prosseguir.
+- Ter a linguagem de programação correspondente instalada.
+- Seguir as instruções do exercício para garantir o funcionamento correto.
 
 ## Observações
 
-- Não compartilhe suas credenciais.
-- Use este script apenas para fins educacionais.
-# Ingresso-Selenium
+- Modifique os arquivos conforme necessário para completar o exercício.
+- Consulte o enunciado para detalhes específicos da implementação.
