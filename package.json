@@ -1,6 +1,8 @@
 {
   "dependencies": {
     "chromedriver": "^138.0.4",
+    "playwright": "^1.54.1",
+    "puppeteer": "^24.15.0",
     "selenium-webdriver": "^4.34.0"
   }
 }
