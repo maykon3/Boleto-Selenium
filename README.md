@@ -29,3 +29,4 @@ Este projeto contém um script em Node.js que utiliza Selenium WebDriver para au
 
 - Não compartilhe suas credenciais.
 - Use este script apenas para fins educacionais.
+# Ingresso-Selenium
