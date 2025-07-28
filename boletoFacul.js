@@ -11,8 +11,8 @@ async function boletoFacul() {
         // Aguarda o campo de login estar presente
         await driver.wait(until.elementLocated(By.id('Usuario')), 10000);
         // Preenche o campo de login
-        await driver.findElement(By.id('Usuario')).sendKeys('202301472563');
-        await driver.findElement(By.id('Senha')).sendKeys('Ch1212');
+        await driver.findElement(By.id('Usuario')).sendKeys('*********');
+        await driver.findElement(By.id('Senha')).sendKeys('*******');
 
         // Clica no Captcha 
         const botao = await driver.wait(until.elementLocated(By.id('rc-anchor-container')), 10000);
